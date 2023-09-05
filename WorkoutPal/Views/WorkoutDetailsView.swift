@@ -19,6 +19,9 @@ struct WorkoutDetailsView: View {
             HStack {
                 VStack(alignment: .leading) {
                     Text("Estimated Duration: \(workout.estimatedDuration)")
+                    NavigationLink(destination: APITestView()) {
+                        Text("Link to test view")
+                    }
                 }
                 Spacer()
             }
