@@ -15,6 +15,7 @@
 		B9BF81262A9EB68300C7F77F /* WorkoutEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9BF81252A9EB68300C7F77F /* WorkoutEditView.swift */; };
 		B9BF81282A9EC62500C7F77F /* NewWorkoutSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9BF81272A9EC62500C7F77F /* NewWorkoutSheet.swift */; };
 		B9BF812A2A9ECF2B00C7F77F /* WorkoutStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9BF81292A9ECF2B00C7F77F /* WorkoutStore.swift */; };
+		B9EA32122A9EE1EF00CBE133 /* APITestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9EA32112A9EE1EF00CBE133 /* APITestView.swift */; };
 		B9FD50B12A996BC700E8DF9D /* WorkoutPalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9FD50B02A996BC700E8DF9D /* WorkoutPalApp.swift */; };
 		B9FD50B32A996BC700E8DF9D /* DashBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9FD50B22A996BC700E8DF9D /* DashBoardView.swift */; };
 		B9FD50B52A996BC900E8DF9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9FD50B42A996BC900E8DF9D /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 		B9BF81252A9EB68300C7F77F /* WorkoutEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutEditView.swift; sourceTree = "<group>"; };
 		B9BF81272A9EC62500C7F77F /* NewWorkoutSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewWorkoutSheet.swift; sourceTree = "<group>"; };
 		B9BF81292A9ECF2B00C7F77F /* WorkoutStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutStore.swift; sourceTree = "<group>"; };
+		B9EA32112A9EE1EF00CBE133 /* APITestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APITestView.swift; sourceTree = "<group>"; };
 		B9FD50AD2A996BC700E8DF9D /* WorkoutPal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorkoutPal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9FD50B02A996BC700E8DF9D /* WorkoutPalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutPalApp.swift; sourceTree = "<group>"; };
 		B9FD50B22A996BC700E8DF9D /* DashBoardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoardView.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				B9BF810F2A99A1C200C7F77F /* ExerciseDetailsView.swift */,
 				B9BF81112A99A9DE00C7F77F /* ExerciseEditView.swift */,
 				B9BF81232A9DCB1100C7F77F /* NewExerciseSheet.swift */,
+				B9EA32112A9EE1EF00CBE133 /* APITestView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				B9BF81282A9EC62500C7F77F /* NewWorkoutSheet.swift in Sources */,
 				B9FD50C52A9973AF00E8DF9D /* WorkoutCardView.swift in Sources */,
 				B9BF810C2A99814900C7F77F /* WorkoutDetailsView.swift in Sources */,
+				B9EA32122A9EE1EF00CBE133 /* APITestView.swift in Sources */,
 				B9BF812A2A9ECF2B00C7F77F /* WorkoutStore.swift in Sources */,
 				B9FD50C22A9970E400E8DF9D /* Exercise .swift in Sources */,
 				B9BF81262A9EB68300C7F77F /* WorkoutEditView.swift in Sources */,
